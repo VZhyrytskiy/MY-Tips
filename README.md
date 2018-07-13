@@ -10,3 +10,8 @@ Ctrl + J, Ctrl + ` - включить, выключить терминал.
 .spacer {
     flex: 1 1 auto;
 }
+
+### BEM
+.block__element {
+    // rules
+}
